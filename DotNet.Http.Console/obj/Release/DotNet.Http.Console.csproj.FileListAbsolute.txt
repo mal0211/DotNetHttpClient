@@ -1,0 +1,7 @@
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\bin\Release\DotNet.Http.Console.exe
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\bin\Release\DotNet.Http.Console.pdb
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\bin\Release\DotNet.Http.Core.dll
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\bin\Release\DotNet.Http.Core.pdb
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\obj\Release\DotNet.Http.Console.csprojResolveAssemblyReference.cache
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\obj\Release\DotNet.Http.Console.exe
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Console\obj\Release\DotNet.Http.Console.pdb

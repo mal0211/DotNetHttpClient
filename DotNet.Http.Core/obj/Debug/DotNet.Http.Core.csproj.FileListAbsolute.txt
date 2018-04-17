@@ -1,0 +1,15 @@
+E:\蒋海波工作文件夹\PanLiExample\PanLi\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.dll
+E:\蒋海波工作文件夹\PanLiExample\PanLi\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.pdb
+E:\蒋海波工作文件夹\PanLiExample\PanLi\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\PanLiExample\PanLi\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.dll
+E:\蒋海波工作文件夹\PanLiExample\PanLi\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.pdb
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.dll
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.pdb
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.dll
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.pdb
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.dll
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Debug\DotNet.Http.Core.pdb
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.csprojResolveAssemblyReference.cache
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.dll
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Debug\DotNet.Http.Core.pdb

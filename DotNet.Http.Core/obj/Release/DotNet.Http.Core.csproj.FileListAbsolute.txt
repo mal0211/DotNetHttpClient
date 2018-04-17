@@ -1,0 +1,8 @@
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Release\DotNet.Http.Core.dll
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Release\DotNet.Http.Core.pdb
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Release\DotNet.Http.Core.dll
+F:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Release\DotNet.Http.Core.pdb
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Release\DotNet.Http.Core.dll
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Core\bin\Release\DotNet.Http.Core.pdb
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Release\DotNet.Http.Core.dll
+D:\Code\Work\DotNetHttpClient\DotNet.Http.Core\obj\Release\DotNet.Http.Core.pdb

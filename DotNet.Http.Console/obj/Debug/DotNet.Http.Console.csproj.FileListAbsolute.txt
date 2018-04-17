@@ -1,0 +1,7 @@
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\bin\Debug\DotNet.Http.Console.exe
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\bin\Debug\DotNet.Http.Console.pdb
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\bin\Debug\DotNet.Http.Core.dll
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\bin\Debug\DotNet.Http.Core.pdb
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\obj\Debug\DotNet.Http.Console.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\obj\Debug\DotNet.Http.Console.exe
+E:\蒋海波工作文件夹\PanLiExample\DotNetHttpClient\DotNet.Http.Console\obj\Debug\DotNet.Http.Console.pdb
